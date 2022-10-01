@@ -1,6 +1,6 @@
 def exercise_1(list_num):
     data = [max(num) for num in list_num]
-    # print(data)
+    print(data)
     return data
 
 def exercise_2(list_num):
